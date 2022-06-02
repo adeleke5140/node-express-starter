@@ -1,0 +1,11 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "first attempt at creating a restful api",
+  "main": "index.js",
+  "author": "adeleke5140",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
